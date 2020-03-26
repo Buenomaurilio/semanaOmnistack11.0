@@ -4,7 +4,8 @@
  */
 
 const express = require ('express');
-const express = require('cors');
+const cors = require('cors');
+
 const routes = require('./routes');
 const app = express();
 

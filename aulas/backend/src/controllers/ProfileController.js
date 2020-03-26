@@ -1,3 +1,8 @@
+/*
+ *   Copyright (c) 2020 
+ *   All rights reserved.
+ */
+
 const connection = require('../database/connection');
 
 module.exports = {
