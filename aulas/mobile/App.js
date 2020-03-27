@@ -2,6 +2,8 @@
  *   Copyright (c) 2020 
  *   All rights reserved.
  */
+import 'intl';
+import 'intl/locale-data/jsonp/pt-BR';
 
 import React from 'react';
 
