@@ -1,1 +1,0 @@
-# semanaOmnistack11.0
